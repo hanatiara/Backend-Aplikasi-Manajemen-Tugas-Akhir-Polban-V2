@@ -1,4 +1,9 @@
 # Backend Aplikasi Manajemen Tugas Akhir JTK Polban Version 2
+The Final Project Management System is a web-based application designed to manage scheduling and document administration for final project (Tugas Akhir) activities in the Department of Computer Engineering and Informatics.
+
+Currently, coordinators use multiple Google Drive links to store documents and manage schedules, which can lead to misplaced files, scattered information, and difficulties in tracking student submissions. This system provides a centralized platform to organize schedules, manage document submissions, and store completed final project reports as references for future students.
+
+The application aims to improve efficiency, simplify administrative processes, and enhance coordination between students and final project coordinators.
 
 ## Contributors
 
